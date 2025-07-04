@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Age of Lost Omens
 ---
 
 This is a blank Quartz installation.
