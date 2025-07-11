@@ -15,7 +15,7 @@ tags:
 **Holy Symbol** a red pentagram  
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
-  <img src="https://static.wikia.nocookie.net/pathfinder/images/9/94/Asmodeus.jpg/revision/latest?cb=20080822132945" alt="Example" width="200"><br>
+  <img src="https://static.wikia.nocookie.net/pathfinder/images/9/94/Asmodeus.jpg" alt="Example" width="200"><br>
   <small><em>Common depiction of Asmodeus.</em></small>
 </div>
 

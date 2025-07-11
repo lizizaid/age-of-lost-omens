@@ -6,20 +6,20 @@ Below is an index of some of the many deities, divine beings, religious orders a
 ### Core deities
 The following deities are the most commonly worshiped deities of the inner sea region.
 
-- [[[quartz/content/Religions & Deities/Core Deities/Abadar|Abadar]]
-- [[quartz/content/Religions & Deities/Core Deities/Asmodeus|Asmodeus]]
-- [[quartz/content/Religions & Deities/Core Deities/Calistria|Calistria]]
-- [[quartz/content/Religions & Deities/Core Deities/Cayden Cailean|Cayden Cailean]]
-- [[quartz/content/Religions & Deities/Core Deities/Desna|Desna]]
-- Erastil
-- Gorum
-- Gozreh
-- Iomadae
-- Iroi
-- Lamashtu
-- Nethys
-- Norgorber
-- Pharasma
+- [[Abadar]]
+- [[Asmodeus]]
+- [[Calistria]]
+- [[Cayden Cailean]]
+- [[Desna]]
+- [[Erastil]]
+- [[Gorum]]
+- [[Gozreh]]
+- [[Iomedae]]
+- [[Irori]]
+- [[Lamashtu]]
+- [[Nethys]]
+- [[Norgorber]]
+- [[Pharasma]]
 - Rovagug
 - Sarenrae
 - Shelyn

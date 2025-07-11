@@ -15,7 +15,7 @@ tags:
 **Holy Symbol** a gold and black pin, from which three daggers protrude   
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
-  <img src="https://static.wikia.nocookie.net/pathfinder/images/e/ec/Calistria.png/revision/latest/scale-to-width-down/600?cb=20201029235036" alt="Example" width="200"><br>
+  <img src="https://static.wikia.nocookie.net/pathfinder/images/e/ec/Calistria.png" alt="Example" width="200"><br>
   <small><em>Common depiction of Calistria.</em></small>
 </div>
 
