@@ -6,7 +6,7 @@ Insert something neat here
 
 # Campaigns
 ### Adventure Paths
-1. Rise of the Runelords
+1. [[Rise of the Runelords]]
 2. Curse of the Crimson Throne
 
 ### Mini Campaigns
