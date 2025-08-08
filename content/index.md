@@ -7,10 +7,9 @@ Insert something neat here
 # Campaigns
 ### Adventure Paths
 1. [[Rise of the Runelords]]
-2. Curse of the Crimson Throne
 
 ### Mini Campaigns
-1. Crown of the Kobold King
+1. [[Crown of the Kobold King]]
 
 
 # Portals

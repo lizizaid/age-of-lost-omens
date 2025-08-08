@@ -1,6 +1,6 @@
 ## An ancient sin is awakening in Varisia.
 
-![[Gob.jpg]]
+[![Gob.jpg](https://i.postimg.cc/kXdRQsVZ/Gob.jpg)](https://postimg.cc/hhpGg91b)
 
 Ten thousand years ago, the wild frontier known today as Varisia was part of the great and terrible empire of Thassilon, a mageocracy built on sin and oppression. The seven rulers of Thassilon were known as Runelords – each a powerful wizard dedicated to one of the deadly sins, the Runelords ruled over the populace with an iron fist, waged terrible wars against one another, and practitoned powerful rune magic. And while the Runelords could not save Thassilon from the calamity of Earthfall, it’s ancient ruins that dot Varisia’s landscape still hold much knowledge and wealth, attracting adventurers from all across the land to claim it.
 
