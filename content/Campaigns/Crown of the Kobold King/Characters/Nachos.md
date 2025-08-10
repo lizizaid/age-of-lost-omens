@@ -1,7 +1,11 @@
 ---
-title: "Nachos"
+title: Nachos
 draft: false
 tags:
+  - pc
+  - lizardfolk
+  - monk
+  - terror_attack
 ---
  
 *"Don't make me come over there and raise you up!"*  
