@@ -1,0 +1,2 @@
+The **River Foam** is a small, tributary river, that skirts around the southern foothills of [[Droskar's Crag]] before flowing in an easterly direction through [[Darkmoon Vale]]. The river is just over 240 kilometers in length.  
+In the spring and autumn, the river is filled with large silver fish, spawning at the base of Gold Falls. Other fauna living along the river include crawdads, otters, fisks, herons and alligators. Occasionally reefclaws and water nagas make their way to the river.  

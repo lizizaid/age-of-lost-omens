@@ -16,7 +16,8 @@ tags:
 </div>
 
 ### Info
-- **Ancestry:** Human
+A grim witch of a mysterious power, leader of the Terror Attack adventuring party.  
+- **Ancestry:** [[Human]]
 - **Gender**: Female
 - **Class**: Witch
 - **Traits** Intelligent, calculating, motherly, often has mood swings

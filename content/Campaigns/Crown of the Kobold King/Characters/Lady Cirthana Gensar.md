@@ -5,6 +5,7 @@ tags:
   - human
   - cleric
   - iomedae
+  - falcons_hollow
 ---
  
 *"May the goddess be both your sword and your shield."*  
@@ -15,7 +16,8 @@ tags:
 </div>
 
 ### Info
-- **Ancestry:** Human
+A cleric of [[Iomedae]], and [[Falcon's Hollow]] priestess.  
+- **Ancestry:** [[Human]]
 - **Gender**: Female
 - **Class**: Cleric
 - **Traits** Noble, understanding, true believer
