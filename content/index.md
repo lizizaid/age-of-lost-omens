@@ -40,9 +40,9 @@ Lee
 
 # Portals
 - [[The World of Golarion]]
-- History & Lore
+- [[Lore index|History & Lore]]
 - [[Religions Index|Religions & Deities]]
 - [[Bestiary Index|Bestiary]]
-- Factions
+- [[Factions index|Factions]]
 - Items
 - House Rules

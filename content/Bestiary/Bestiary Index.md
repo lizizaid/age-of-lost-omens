@@ -1,4 +1,4 @@
-The world of Golarion is full of unique peoples and frightening monsters, from frightening undead to whimsical fey and from hungry beasts to scheming fiends.  
+The world of Golarion is full of unique peoples and monsters, from frightening undead to whimsical fey and from hungry beasts to scheming fiends.  
 The following bestiary is a collection of the creatures and ancestries encountered during the adventures of Age of Lost Omens.  
 
 
@@ -6,6 +6,7 @@ The following bestiary is a collection of the creatures and ancestries encounter
 ### B
 ### C
 ### D
+- [[Dwarf]]
 ### E
 ### F
 ### G
@@ -15,6 +16,7 @@ The following bestiary is a collection of the creatures and ancestries encounter
 ### I
 ### J
 ### K
+- [[Kobold]]
 ### L
 - [[Lizardfolk]]
 ### M
@@ -24,10 +26,14 @@ The following bestiary is a collection of the creatures and ancestries encounter
 ### Q
 ### R
 ### S
+- [[Snat]]
+- [[Sprite]]
 ### T
+- [[Tatzlwyrm]]
 ### U
 ### V
 ### W
+- [[Wolf]]
 ### X
 ### Y
 ### Z

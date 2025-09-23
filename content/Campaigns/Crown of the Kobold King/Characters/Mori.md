@@ -22,7 +22,7 @@ A grim witch of a mysterious power, leader of the Terror Attack adventuring part
 - **Class**: Witch
 - **Traits** Intelligent, calculating, motherly, often has mood swings
 - **Relationships**
-	- Terror Attack (member)
+	- [[Terror Attack]] (member)
 	- Kiki, the black cat (familiar)
 - **Status** alive
 
@@ -38,4 +38,4 @@ One stressful day, rushing between classes in the academy, Mori's books all fell
 Mori has not seen the mysterious figure since. She discovered she now possessed a greater control of primal magic - although she had a rudimentary understanding of magic from her studies, it seems the figure also left her some additional power as some sort of sick joke. She was also now accompanied by a black cat she named Kiki - a magical familiar, and her only connection to the figure. For now, Mori has decided to take on the life of an adventurer to earn her coin, wielding her magical powers to zap her enemies and summon spirit animals. For now, she does not know if she will ever meet her mysterious patron, or her parents, ever again...
 
 ### Recent History
-Mori joined with two other adventurers, [[Lucas, the halfling|Lucas]] and [[Nachos]], to accept a quest from the Pathfinder Society. They became the original members of Terror Attack. Over their quest, Mori became the unofficial leader of the group, often acting as their mouth and taking care of the other members in an almost motherly manner.
+Mori joined with two other adventurers, [[Lucas, the halfling|Lucas]] and [[Nachos]], to accept a quest from the Pathfinder Society. They became the original members of [[Terror Attack]]. Over their quest, Mori became the unofficial leader of the group, often acting as their mouth and taking care of the other members in an almost motherly manner.

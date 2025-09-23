@@ -1,0 +1,3 @@
+At the center of Darkmoon Forest's northern half, the **Forest Elder** is a massive darkwood tree that dominates a small clearing with a freshwater spring running around it. It towering trunk reaches more than 30 meter above ground, and it's canopy consumes the clearing around it with shade.  
+
+The Forest Elder is obviously the most ancient tree of the forest, and probably the progenitor of many of the darkwood trees who grew around it. Local legends tell that it's seed was brought from the Feyrealm many generations ago, and indeed powerful fey magic surrounds it's aura. Many birds, squirrels and insects make their home on the branches of the Elder, as well as small sprites and other fey creatures.

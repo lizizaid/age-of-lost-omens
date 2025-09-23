@@ -22,7 +22,7 @@ A wisecracking, massive lizardfolk monk.
 - **Class**: Monk
 - **Traits** Easygoing, flamboyant, chaotic, loves religion and philosophy
 - **Relationships**
-	- Terror Attack (member)
+	- [[Terror Attack]] (member)
 - **Status** alive
 
 ### Description
@@ -39,4 +39,4 @@ However, life was not breezy for Nachos at the monastery. Contrary to his cold-b
 And so, at the day when Nachos realized his life path would lead him elsewhere, he finally decided to leave the monastery. Carrying what little items he owned, Nachos went down from the mountains in search of new friends, new religions, and new adventures.
 
 ### Recent History
-Nachos managed to find work at the Pathfinder Society adventurers guild, where he teamed up with [[Mori]] and [[Lucas, the halfling]] to take on a quest in the town of [[Falcon's Hollow]]. The three of them were the original members of the Terror Attack adventuring party.
+Nachos managed to find work at the Pathfinder Society adventurers guild, where he teamed up with [[Mori]] and [[Lucas, the halfling]] to take on a quest in the town of [[Falcon's Hollow]]. The three of them were the original members of the [[Terror Attack]] adventuring party.

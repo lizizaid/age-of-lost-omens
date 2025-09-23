@@ -1,0 +1,3 @@
+Deep in the Darkmoon forest lies **Ulizmilla's hut**, the old shack of the wood's hag, Ulizmilla. The ugly cottage sits in the middle of a glade, with twigs, shoots and ivy stacked on it's wooden walls. From the thatched roof above the door dangle old animal bones and dry roots, stacked together as a form of gruesome wind chimes. On the trees around the hut hang small doll-like fetishes.  
+
+Ulizmilla herself used to live in this hut for years, terrorizing the people of [[Falcon's Hollow]], until she was frightened away from there by the adventurer's of Rocky's Camp.  

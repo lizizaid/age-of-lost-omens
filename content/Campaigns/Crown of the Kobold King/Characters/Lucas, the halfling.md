@@ -23,7 +23,7 @@ A sheltered but intelligent halfling, out of his home for the first time.
 - **Class**: Bard
 - **Traits** Naive, curious, cowardly, full of wanderlust
 - **Relationships**
-	- Terror Attack (member)
+	- [[Terror Attack]] (member)
 - **Status** dead
 
 ### Description
@@ -37,7 +37,7 @@ But growing among books, one can only go so far before growing an appetite for i
 And so, just after his eighteenth birthday, Lucas has gathered what little supplies he thought were relevant for a journey, took up his bow and his lute, and escaped from his house. For the first time in his life, Lucas has existed the safe and warm borders of his village. Alone and confused, but hopeful and excited, he wandered the road for some time, meeting interesting people and building up the courage to interact with them. Miraculously he managed to find his way to the local Pathfinder Society, where he offered up his skills as a bard, looking for his first ever adventure.
 
 ### Recent History
-For his first adventure, Lucas joined with two other travelers, [[Mori]] and [[Nachos]], and they formed the adventuring party Terror Attack. The Society sent them to the town of [[Falcon's Hollow]] to start their quest.  
+For his first adventure, Lucas joined with two other travelers, [[Mori]] and [[Nachos]], and they formed the adventuring party [[Terror Attack]]. The Society sent them to the town of [[Falcon's Hollow]] to start their quest.  
 
 During their adventure, Lucas started to learn what is means to share the world with other people - how to talk to them, how to fight them, and, most importantly, how to care for them.  
 

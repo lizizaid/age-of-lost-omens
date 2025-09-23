@@ -1,0 +1,16 @@
+Sleeping on the southern shadow of [[Droskar's Crag]] on the edge of [[Darkmoon Vale]] lies the ruined monastery once known as **Droskar's Crucible**. Though the building is abandoned and in shambles, it is a relic of an elder dwarven kingdom of crusaders and heroes, but also a shadowy place of worship, hiding dark secrets in the dungeon system below it.
+
+## History
+The ancient monastery was built hundreds of years ago, by [[Dwarf|dwarven]] monks and priests of Torag, the forge god. The dwarves were part of a great dwarven army, dispatched from the nearby kingdom to crusade and fight back an ancient enemy. The army returned home successful from their holy crusade, carrying with them powerful artifacts taken from the enemy. The disciples of Torag took upon themselves the sacred duty of protecting one of these artifacts, a Seal of great necromantic power. They built the small monastery down from the mountains of their home kingdom, and spent their days worshiping their deity, forging new armaments, and of course, protecting the Seal from any who would try to access it's power.  
+
+Then, the Rending occurred. The volcano of Droskar's Crag erupted, destroying most of the dwarven kingdom. The monks became trapped withing the dungeon they carved under their monastery, with no access to any of their kin. The traumatic event caused the dwarves' faith to shatter, and over the course of the years to follow, they abandoned Torag and instead began to worship the dark god of toil, whom the volcano was named for - Droskar.  
+
+In the decades that followed, the keepers of the Seal fell fully into the teachings of Droskar and renamed their home Droksar's Crucible. Some worked tirelessly to build, bury, and rebuild the underground chambers, never quite satisfied with their work. Other toiled at the forges, crafting magic items to honor Droskar - items they never quite saw to completion. In the cult's final days, their leader, a dwarf named Gristogar, set out to construct something he hoped would save his faltering cult: a magical crown. Gristogar felt that this powerful magic item would serve as a symbol of a new king, one who would rise from the Rending's ashes and found a new dwarven kingdom, dedicated to Droskar instead of Torag. He used a combination of dark magic siphoned from the Seal and blasphemous rituals dedicated to Droskar to forge his crown.  
+
+But even as Gristogar toiled, the cult of Droskar continued to dwindle. With no infusion of fresh blood and no new births within, each death put the cult one step closer to the grave. Eventually, the last remaining cultists were forced to admit that they were doomed, and instead of abandoning their home, they instead collapsed key tunnels to bury the chambers and seal themselves within, stubbornly refusing to share the incomplete fruit of their endless toil.  
+
+Gristogar was the last of the cultists, and after his lonely death, Droskar’s Crucible lay forgotten for centuries, along with the treasures kept within—ranging from Gristogar’s nearly complete Crown of Toil to the Seal itself.  
+
+## Recent history
+In the centuries after the cult of Droskar died out, the abandoned dungeons were taken over by underground monsters and beasts. Most recently, the cavern system became the warrens of the [[Truescale Tribe|Truescale kobolds]].
+
