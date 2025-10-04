@@ -6,6 +6,7 @@ The following bestiary is a collection of the creatures and ancestries encounter
 ### B
 ### C
 ### D
+- [[Darkmantle]]
 - [[Dwarf]]
 ### E
 ### F

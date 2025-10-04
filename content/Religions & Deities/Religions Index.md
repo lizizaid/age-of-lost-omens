@@ -26,3 +26,11 @@ The following deities are the most commonly worshiped deities of the inner sea r
 - Torag
 - Urgathoa
 - Zon Kuthon
+
+
+## Ancestral Pantheons
+### Dwarven Pantheon
+Led by almighty Torag, the deities of the dwarven pantheon are worshiped by dwarves throughout the realms.
+
+- Torag
+- [[Droskar]]

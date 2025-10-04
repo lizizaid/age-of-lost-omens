@@ -14,7 +14,7 @@ This is all a lie, for what awaits the people of Falcon’s Hollow deep below mi
 ### Book 1 – Hollow's Last Hope
 - [[Chapter 1 - Welcome to the Hollow]]  
 - [[Chapter 2 - Darkmoon Vale]]   
-- Chapter 3 – The Ruined Monastery  
+- [[Chapter 3 - The Ruined Monastery]]  
 
 ### Book 2 - Crown of the Kobold King
 - Chapter 1 - Droskar's Crucible  
