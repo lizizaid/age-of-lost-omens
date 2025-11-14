@@ -31,4 +31,4 @@ A surly, grizzled, slab of a man in his fourties, with an unruly red beard.
 Jarlbren is a citizen of [[Falcon's Hollow]], who managed to make his way up to become an overseer of one of the town's lumber camps. In typical rough lumberjack fashion, Jarlbren is an awful boss, mostly shouting at his employees and overworking them - due to his short fuse, most of them know not to disturb him too much, and he spends a lot of the day alone in his manager's tent, carving small pieces of darkwood.
 
 ### Recent History
-Jarlbren turned away the hunter Barlus who asked to spend the night in his camp, instead sending him away to Ulizmila's shack. A couple of days later, [[Terror Attack]] arrived to question him about Barlus, and after some intimidation by [[Mori]], he finally broke and told them where the hunter went.
+Jarlbren turned away the hunter [[Barlus Chortun|Barlus]] who asked to spend the night in his camp, instead sending him away to Ulizmila's shack. A couple of days later, [[Terror Attack]] arrived to question him about Barlus, and after some intimidation by [[Mori]], he finally broke and told them where the hunter went.

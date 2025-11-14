@@ -38,9 +38,10 @@ Additionally, the town attracts many fresh adventurers, who set out in order to 
 
 ### Inhabitants
 Most of Falcon's Hollow inhabitants are humans, with some dwarf and halfling families living among them as well. Citizens of the town include:
-- Thuldrin Kreed
-- Sherrif Deldrin Baleson
+- [[Barlus Chortun]]
+- [[Jarlbren Trookshavits]]
 - [[Lady Cirthana Gensar]]
+- Thuldrin Kreed
 
 ### Locations
 1. **Temple of Iomedae**

@@ -27,6 +27,7 @@ The following bestiary is a collection of the creatures and ancestries encounter
 ### Q
 ### R
 ### S
+- [[Skeleton]]
 - [[Snat]]
 - [[Sprite]]
 ### T
@@ -34,6 +35,7 @@ The following bestiary is a collection of the creatures and ancestries encounter
 ### U
 ### V
 ### W
+- [[Warg]]
 - [[Wolf]]
 ### X
 ### Y

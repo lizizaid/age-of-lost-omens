@@ -7,7 +7,7 @@ tags:
 ---
 
 
-<div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
+<div style="float: right; width: 500px; margin: 0 0 1em 1em; text-align: center;">
   <img src="https://pathfinderwiki.com/w/images/5/59/Priestess_of_Torag.jpg?20141030200303" alt="Example" width="200"><br>
   <small><em></em></small>
 </div>
