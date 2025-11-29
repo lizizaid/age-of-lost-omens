@@ -15,7 +15,7 @@ Remote lumber town, ruled by a self-interested consortium.
 - **Population** 2,400 (90% human, %5 dwarf, %3 halfling, %2 other)
 - **Languages** Common, Dwarven
 - **Religions** Lip service to various faiths
-- **Trade Goods** darkwood, furniture, hunted game, furs
+- **Resources** darkwood, furniture, hunted game, furs
 - **Traits** 
 	- Lumber town - Those who come to Falcon’s Hollow can always find work in the cutyards or lumber mills. A character can Earn Income in Falcon’s Hollow by attempting Athletics or Labor Lore, and if they do, they can attempt up to a 6th-level task.
 
@@ -40,6 +40,7 @@ Additionally, the town attracts many fresh adventurers, who set out in order to 
 Most of Falcon's Hollow inhabitants are humans, with some dwarf and halfling families living among them as well. Citizens of the town include:
 - [[Barlus Chortun]]
 - [[Jarlbren Trookshavits]]
+- [[Hemet Inkwaddel]]
 - [[Lady Cirthana Gensar]]
 - Thuldrin Kreed
 
@@ -51,4 +52,4 @@ Most of Falcon's Hollow inhabitants are humans, with some dwarf and halfling fam
 3. **Low Market**
 		Open to all, the Low Market sells all sorts of leftovers, including produce no longer fresh enough for High Market's favored costumers, heavily salted meats and fish, and other questionable foodstuff. Weapons, armor and other gear is available, but never of a good quality. Hordes of poor woodcutters and struggling hunters frequent the Low Market. A few ramshackle stalls serve ale and blindness-inducing moonshine to carousing loggers, fueling their revels and making picking pockets an easy prospect.
 4. **High Market**
-		Located on a small hill, literally above most of the town, High Market's greatest draw is the rot-free meats and vegetables for sale. Weekly caravans run to and from the larger town of Olfden, stocking the market with silk clothing, shoes, spices, and jewelry. Local artists also sell their wares here, and it is one of the few reliable places in Falcon's Hollow where weapons, armor and more can be purchased.  However, the market's wares aren't available to all. Consortium thugs restrict access, admitting only those Thuldrin deems influential.
+		Located on a small hill, literally above most of the town, High Market's greatest draw is the rot-free meats and vegetables for sale. Weekly caravans run to and from the larger town of Olfden, stocking the market with silk clothing, shoes, spices, and jewelry. Local artists also sell their wares here, and it is one of the few reliable places in Falcon's Hollow where weapons, armor and more can be purchased. However, the market's wares aren't available to all. Consortium thugs restrict access, admitting only those Thuldrin deems influential.

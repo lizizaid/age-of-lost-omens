@@ -20,7 +20,7 @@ The following deities are the most commonly worshiped deities of the inner sea r
 - [[Nethys]]
 - [[Norgorber]]
 - [[Pharasma]]
-- Rovagug
+- [[Rovagug]]
 - Sarenrae
 - Shelyn
 - [[Torag]]

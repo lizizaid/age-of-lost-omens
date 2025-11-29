@@ -3,6 +3,7 @@ title: Barlus Chortun
 draft: false
 tags:
   - falcons_hollow
+  - human
 ---
  
 *"Thank [[Erastil]] you were there to pull me out of that dark place..."*  
