@@ -2,3 +2,6 @@ The following index contains information about the lore of Golarion - it's histo
 
 ## History
 - [[History of Golarion]]
+
+## Cosmology
+- [[Cosmology]]
