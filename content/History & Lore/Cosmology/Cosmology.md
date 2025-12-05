@@ -96,15 +96,14 @@ The **Planes of Madness** align with the unknowable, nightmares, and the breakin
 The **Planes of Spirit**, also known as the **Cosmic Spark**, are the universe's will, it's power and energy. They are Life and Death, Vitality and Void - unlike what many would believe, these are not opposite forces, but rather the same concept, the sum of two propagating wavelengths. The Essence of Spirit is **Ether**, Quintessence given a spark of emotion and vitality. Each of the Spirit Planes is an infinite, spiritual field, which is divided into **Realms**. Spirit Realms are like bubbles, constantly floating and merging with each other to spark new Realms.  
 
 ## The Core Planes
-The **Core Planes**, also known as **Those At Creation's Edges**, are the ultimate metaphysical start and end of the cosmos - Life and Death. These are represented by the two Planes who generate pure Vitality and Entropy energies into the universe - Creation's Forge and The Void. There is a third type of energy - Necrotic - creating un-life, which is not opposite to life nor death, but rather a unique combination of both, and it flows from the Netherrealm.
+The **Core Planes**, also known as **Those At Creation's Edges**, are the ultimate metaphysical start and end of the cosmos - Life and Death. These are represented by the two Planes who generate pure Vitality and Entropy energies into the universe - Creation's Forge and The Void.
 - Creation's Forge
 - The Void
-- Netherrealm
 
 ## The Echo Planes
 The **Echo Planes**, also known as **Creation's Mirrors**, are the many echos of the cosmos's Spirit, representing that very Spirit seeping into the other Planes, giving spark and flame to bodies, ideas, and souls. Thus, these Planes inhabitants, although still uniquely spiritual, are often very intertwined with the other Planes, spreading their Spirit throughout the realms. These Planes include:
 - Feyrealm
-- Shadowrealm
+- Netherrealm
 - Otherrealm
 
 
