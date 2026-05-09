@@ -21,6 +21,7 @@ The original three members of the group came together in a Pathfinder Society lo
 #### Current members
 - [[Mori]]
 - [[Nachos]]
+- [[Mattis]]
 #### Previous members
 - [[Lucas, the halfling]]
 #### Companions

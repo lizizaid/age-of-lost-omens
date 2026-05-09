@@ -12,7 +12,7 @@ tags:
 Remote lumber town, ruled by a self-interested consortium.  
 - **Size** small town
 - **Government** council (Lumber Consortium)
-- **Population** 2,400 (90% human, %5 dwarf, %3 halfling, %2 other)
+- **Population** 2,400 (90% [[Human|human]], %5 [[Dwarf|dwarf]], %3 [[Halfling|halfling]], %2 other)
 - **Languages** Common, Dwarven
 - **Religions** Lip service to various faiths
 - **Resources** darkwood, furniture, hunted game, furs
@@ -45,11 +45,11 @@ Most of Falcon's Hollow inhabitants are humans, with some dwarf and halfling fam
 - Thuldrin Kreed
 
 ### Locations
-1. **Temple of Iomedae**
-		A small darkwood chapel, the temple of [[Iomedae]] is the town's only place of worship. Though not many of the town's residents come to pray, and despite the Kreed family tackling her any attempts to reform them, the temple's keeper, [[Lady Cirthana Gensar]], keeps doing her best to bring her goddesses justice and light to this gloomy settlment.
-2. **Jak A' Napes**
-		A ramshackle inn, offering food and lodging to travelers passing through Falcon's Hollow. The ruddy inkeeper, Jak Crimmy, always has a warm welcome, a solid meal, and a tale or two for weary visitors. The inn is most known for it's cinnamon pastries, especially Jak's legendary cinnamon pancakes she makes once per week, which the line to taste a sugared forkful runs all the way around the building and down the street.
-3. **Low Market**
-		Open to all, the Low Market sells all sorts of leftovers, including produce no longer fresh enough for High Market's favored costumers, heavily salted meats and fish, and other questionable foodstuff. Weapons, armor and other gear is available, but never of a good quality. Hordes of poor woodcutters and struggling hunters frequent the Low Market. A few ramshackle stalls serve ale and blindness-inducing moonshine to carousing loggers, fueling their revels and making picking pockets an easy prospect.
-4. **High Market**
-		Located on a small hill, literally above most of the town, High Market's greatest draw is the rot-free meats and vegetables for sale. Weekly caravans run to and from the larger town of Olfden, stocking the market with silk clothing, shoes, spices, and jewelry. Local artists also sell their wares here, and it is one of the few reliable places in Falcon's Hollow where weapons, armor and more can be purchased. However, the market's wares aren't available to all. Consortium thugs restrict access, admitting only those Thuldrin deems influential.
+##### 1. Temple of Iomedae
+A small darkwood chapel, the temple of [[Iomedae]] is the town's only place of worship. Though not many of the town's residents come to pray, and despite the Kreed family tackling her any attempts to reform them, the temple's keeper, [[Lady Cirthana Gensar]], keeps doing her best to bring her goddesses justice and light to this gloomy settlement.  
+##### 2. Jak A' Napes
+A ramshackle inn, offering food and lodging to travelers passing through Falcon's Hollow. The ruddy inkeeper, Jak Crimmy, always has a warm welcome, a solid meal, and a tale or two for weary visitors. The inn is most known for it's cinnamon pastries, especially Jak's legendary cinnamon pancakes she makes once per week, which the line to taste a sugared forkful runs all the way around the building and down the street.  
+##### 3. Low Market
+Open to all, the Low Market sells all sorts of leftovers, including produce no longer fresh enough for High Market's favored costumers, heavily salted meats and fish, and other questionable foodstuff. Weapons, armor and other gear is available, but never of a good quality. Hordes of poor woodcutters and struggling hunters frequent the Low Market. A few ramshackle stalls serve ale and blindness-inducing moonshine to carousing loggers, fueling their revels and making picking pockets an easy prospect.  
+##### 4. High Market
+Located on a small hill, literally above most of the town, High Market's greatest draw is the rot-free meats and vegetables for sale. Weekly caravans run to and from the larger town of Olfden, stocking the market with silk clothing, shoes, spices, and jewelry. Local artists also sell their wares here, and it is one of the few reliable places in Falcon's Hollow where weapons, armor and more can be purchased. However, the market's wares aren't available to all. Consortium thugs restrict access, admitting only those Thuldrin deems influential.  

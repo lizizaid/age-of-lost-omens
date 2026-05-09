@@ -22,4 +22,4 @@ Some powerful creatures with control over nature, such as Vampires, can call upo
 
 ### Statistics
 There have been 0 wolf animal companions.  
-Players have defeated 1 wolves so far.
+Players have defeated 4 wolves so far.

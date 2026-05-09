@@ -2,6 +2,8 @@
 title: Graypelt
 draft: false
 tags:
+  - warg
+  - deceased
 ---
  
 *"A deal, you say? I only deal... in flesh. Bring me someone to eat and we'll talk!"*  
@@ -25,7 +27,7 @@ A cunning warg, terrorizing [[Darkmoon Vale]].
 Graypelt is a large warg with dark-grey fur and burning red eyes. He speaks common and uses that ability to frighten foes to their core.  
 
 ### Biography
-Though usually content with hunting animals and goblins, Greypelt has been terrorizing the loggers of [[Falcon's Hollow]] for a few months now, delighting on their screams and crushing their limbs. More recently he became an ally of the Truescale goblins, working alongside king Merlokrep to gain power in the forest and gather sacrifices for his crown.  
+Though usually content with hunting animals and goblins, Greypelt has been terrorizing the loggers of [[Falcon's Hollow]] for a few months now, delighting on their screams and crushing their limbs. More recently he became an ally of the Truescale goblins, working alongside [[King Merlokrep]] to gain power in the forest and gather sacrifices for his crown.  
 
 ### Recent History
 Greypelt has been guarding the caverns below [[Droskar's Crucible]] before [[Terror Attack]] arrived and managed to cleverly defeat the beast by offering one of their own as tribute.

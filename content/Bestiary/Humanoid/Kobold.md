@@ -5,7 +5,7 @@ tags:
   - humanoid
   - kobold
 ---
-
+     
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
   <img src="https://pathfinderwiki.com/w/images/2/23/Red_Kobold.jpg" alt="Example" width="200"  height="200"><br>

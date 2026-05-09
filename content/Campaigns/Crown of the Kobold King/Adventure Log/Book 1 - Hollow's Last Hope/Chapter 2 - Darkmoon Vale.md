@@ -1,3 +1,9 @@
+---
+title: "{{title}}"
+draft: false
+tags:
+  - crown_of_the_kobold_king
+---
 ![500](https://i.postimg.cc/ZK43d13N/darkmoon-wood.png)
 
 Making their way through the increasingly dark forest, the party followed [[Mori]] on the path to the lumber camp. The great darkwood trees of the Darkmoon forest, their canopies reaching to the skies, allow very few rays of sunlight to reach the ground. The air, however, is filled with the songs of birds, the chattering of wildlife, and here and there, a small faerie hiding in the boughs. [[Lucas, the halfling]] hummed a well-known travel song as the party soaked in the views.  

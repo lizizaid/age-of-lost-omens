@@ -28,10 +28,10 @@ The Inner Sea is further divided into sub-regions, loosely combining kingdoms an
 ### Old Cheliax
 
 ### Saga Lands
-The northwestern reaches of Avistan boast vast woodlands, towering mountain ranges, sweeping deserts and tundra, and sprawling swamplands, yet not all is wilderness. Kingdoms, clans, and free cities alike can be found throughout this far-flung stretch of the Inner Sea region, each with its own traditions and legends. Indeed, the stories that come from this part of the world truly are the stuff of legends, as one might expect of a microregion known as the **Saga Lands**. These lands include:
+The northwestern reaches of Avistan boast vast woodlands, towering mountain ranges, sweeping tundras, and sprawling swamplands, yet not all is wilderness. Kingdoms, clans, and free cities alike can be found throughout this far-flung stretch of the Inner Sea region, each with its own traditions and legends. Indeed, the stories that come from this part of the world truly are the stuff of legends, as one might expect of a region known as the **Saga Lands**. These lands include:
 
 - Nuvodel
 	- [[Darkmoon Vale]]
-- Varisia
+- [[Varisia]]
 
 ### Shining Kingdoms

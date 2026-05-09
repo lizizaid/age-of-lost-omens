@@ -3,6 +3,7 @@ title: Gurtlekep
 draft: false
 tags:
   - kobold
+  - deceased
 ---
  
 *"Bah!"*  

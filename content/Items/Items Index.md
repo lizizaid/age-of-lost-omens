@@ -1,6 +1,11 @@
 The following magical items have been discovered during the adventures of the Age of Lost Omens.
 
 
+# Alchemical Items
+### Elixirs
+- [[Juggernaut Mutagen]]
+
+
 # Artifacts
 ### Minor Artifacts
 ### Major Artifacts
@@ -11,6 +16,7 @@ The following magical items have been discovered during the adventures of the Ag
 ### Magical Ammunition
 - [[Freezing Ammunition]]
 ### Potions
+- [[Healing Potion]]
 ### Talismans
 
 

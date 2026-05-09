@@ -1,3 +1,9 @@
+---
+title: "{{title}}"
+draft: false
+tags:
+  - crown_of_the_kobold_king
+---
 ![500](https://i.postimg.cc/V6W9kvzc/Falcon-s-Hollow.png)
 
 The morning mists part upon the [[River Foam|river's]] shore, as tiny rays of sunshine make their ways between the great Darkwood treetops. A ferry boat lazily rows the final strands towards [[Falcon's Hollow]], docking in the town's small dock.  

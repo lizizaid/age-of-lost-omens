@@ -8,7 +8,7 @@ tags:
 ## Info
 A militant kobold tribe, with ambitions to take over the land
 - **Type** tribe
-- **Leader** King Merlokrep
+- **Leader** [[King Merlokrep]]
 - **Location** [[Darkmoon Vale]]
 - **Goals** become conquerors, sacrifice humanoids to the Crown, make all their slaves
 - **Reputation**

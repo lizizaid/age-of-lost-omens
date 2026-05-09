@@ -1,4 +1,4 @@
-## All bow before the king.
+## Heavy Is The Crown.
 
 [![500](https://i.postimg.cc/DfNBntMG/Screenshot-from-2025-08-08-15-48-13.png)](https://postimg.cc/mhQQS6RZ)
 
@@ -15,6 +15,7 @@ This is all a lie, for what awaits the people of Falcon’s Hollow deep below mi
 - [[Chapter 1 - Welcome to the Hollow]]  
 - [[Chapter 2 - Darkmoon Vale]]   
 - [[Chapter 3 - The Ruined Monastery]]  
+- [[Chapter 4 - The Warg, The Tiefling, and The Stairway Into Darkness]]
 
 ### Book 2 - Crown of the Kobold King
-- Chapter 1 - Droskar's Crucible  
+- [[Chapter 1 - Into Droskar's Crucible]]  

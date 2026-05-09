@@ -23,10 +23,10 @@ tags:
 	- 25 gp (Lesser)
 	- 210 gp (Moderate)
 	- 420 gp (Greater)
-	- 2000 gp (Major)
+	- 2,000 gp (Major)
 
 ### Description
-This chilly ammunition is dark blue and cold to the touch.
+This chilly ammunition is dark blue and cold to the touch.  
 
 ### Usage
 - (Lesser) When activated _freezing ammunition_ hits a target, the target must succeed at a DC 19 Fortitude save or be slowed 1 for 1 round by the intense cold (slowed 1 for 1 minute on a critical failure).

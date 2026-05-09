@@ -7,10 +7,13 @@ The following bestiary is a collection of the creatures and ancestries encounter
 ### C
 ### D
 - [[Darkmantle]]
+- [[Demon]]
+- [[Devil]]
 - [[Dwarf]]
 ### E
 ### F
 ### G
+- [[Gelatinous Cube]]
 ### H
 - [[Halfling]]
 - [[Human]]
@@ -22,6 +25,9 @@ The following bestiary is a collection of the creatures and ancestries encounter
 - [[Lizardfolk]]
 ### M
 ### N
+- [[Nephilim]]
+	- [[Nephilim, Aasimar]]
+	- [[Nephilim, Tiefling]]
 ### O
 ### P
 ### Q

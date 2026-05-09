@@ -21,11 +21,11 @@ The following deities are the most commonly worshiped deities of the inner sea r
 - [[Norgorber]]
 - [[Pharasma]]
 - [[Rovagug]]
-- Sarenrae
-- Shelyn
+- [[Sarenrae]]
+- [[Shelyn]]
 - [[Torag]]
-- Urgathoa
-- Zon Kuthon
+- [[Urgathoa]]
+- [[Zon-Kuthon]]
 
 
 ## Ancestral Pantheons

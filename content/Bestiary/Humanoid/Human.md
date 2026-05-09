@@ -5,7 +5,7 @@ tags:
   - humanoid
   - human
 ---
-
+Elves tend to reach physical adulthood by their 20th year but are considered mature by their kin as they reach 100. The average elf's lifespan is approximately 600 years.
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
   <img src="https://2e.aonprd.com/Images/Ancestries/Human01.png" alt="Example" width="200"><br>
@@ -22,7 +22,7 @@ Humans have a broad variety of physical traits and diverse variation within them
 Humans reach physical maturity around their 15th year but are considered fully mature within a few years, and many can live to be 90 years old.
 
 ### Society
-Humanity has raised some of the greatest societies to dominate the Inner Sea region, from the Azlanti and Thassilonian empires of days of old to Cheliax and Osirion of our age. They have spread all throughout the region and beyond.
+Humanity has raised some of the greatest societies to dominate the Inner Sea region, from the [[Azlant|Azlanti]] and [[Thassilon|Thassilonian]] empires of days of old to Cheliax and Osirion of our age. They have spread all throughout the region and beyond.
 
 ### Statistics
 There have been 1 human player characters:
