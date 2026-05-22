@@ -6,6 +6,7 @@ tags:
   - witch
   - human
   - terror_attack
+  - crown_of_the_kobold_king
 ---
  
 *"Now, if you don't want to feel more pain, you'll lead us to the next room... until now you have only felt the pain I inflict when i'm calm. You wouldn't wanna feel it when i'm angry, would you?"*  

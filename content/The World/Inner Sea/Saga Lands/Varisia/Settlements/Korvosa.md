@@ -178,10 +178,20 @@ Though they can always be found in human cities, the [[Halfling|halflings]] of K
 [[Imp|Imps]] are a common sight in the skies above Korvosa, often fighting with their natural enemies, the local Dragonet population. These tiny fiends are summoned by Acadamae students as part of their training, but some nable to fully bind them or otherwise lose control of them. The imps escape into the city where they form into small packs, looking for mischief. They are a particular nuisance in the roof-level Shingles district, and often try to form alliances with gangs or other ne'er-do-wells.  
 ##### Dragonets
 [[Dragonet|Dragonets]] have lived in the area since long before Korvosa was a city. For unknown reasons, they have become mortal enemies of the introduced imp population, and the two species always fight whenever they encounter each other. Two to three times a year, the imps and pseudodragons gather into huge flocks and fight each other en-mass in the skies above the city.  
-
 ##### Known Inhabitants
 Below is a list of past and present inhabitants of Korvosa:
-- King Eoderd II
+- [[Barleton Fink]]
+- [[Barton]]
+- [[Devargo Baravasi]]
+- [[Eodred Arabasti II]]
+- [[Gaedren Lamm]]
+- [[Kebub Urag]]
+- 
+- [[Tayce Soldado]]
+- [[Trinia Sabor]]
+- [[Zellara Esmeranda]]
+- [[Zenobia Zenderholm]]
+- [[Zim]]
 
 
 ### Locations
@@ -202,13 +212,19 @@ Named after the University of Korvosa, which can be found here, this ward is dom
 #### Midland
 Midland is what most visitors think of when they speak of Korvosa. Located in the southeast quadrant of the city, it is home to the majority of Korvosa's merchants, shops, and financial institutions. It is cosmopolitan and friendly, the heart of the city. The criminal elements who might prey on this accumulation of wealth are kept in check by the fact that both the headquarters of the [[Korvosa#Korvosan Guard|Korvosan Guard]] and the [[Korvosa#Sable Company|Sable Company]] are located here as well.  
 ##### High Bridge
-The primary inhabitants of this residential district are laborers or the families of those working in the Korvosan Guard or Sable Company.
-##### Pillar Hilll
+The primary inhabitants of this residential district are laborers or the families of those working in the Korvosan Guard or Sable Company.  
+###### 1. Gadgets and Gizmos
+A two-story shop selling tinkering materials, imported machinery parts and all kinds of metallic or alchemicals knick-kncaks required for operating technologies. Dust and black powder inevitably sticks to anyone who steps inside the store, and customers often slip on oil or get their clothes caught on fire from errant gadgets. The shop owner, [[Barleton Fink]], does not seem to find the time to organize or clean the place.  
+
+##### Pillar Hill
 Korvosa's most demographically diverse neighberhood.
 ##### Slope
 This neighborhood features a large number of small and private libraries, museums, and other bastions of culture.
 ##### West Dock
 This rugged neighborhood contains no significant residences, and instead features several warehouses and food processing buildings.  
+###### 1. Zellara's house
+Found in Lancet Street 3, [[Zellara Esmeranda|Zellara's]] old house is a small but comfortable shack. It contains a large living room, small bedrooms and an area for harrow-card reading. The walls are painted with harrow-card imagery, and the smells of incense and perfumes haunts the place.  
+
 
 #### North Point
 North Point was the first part of the mainland to be settled after the city of Korvosa began to expand. Encompassing the north-eastern quadrant of the city, it is home to many families descendant from those early settlers, in addition to much of Korvosa's municipal infrastructure. 
@@ -220,6 +236,15 @@ Once the site of some of the bloodiest battles in Korvosa’s early history, thi
 Many of Korvosa’s non-noble elites and old-money families dwell in this residential neighborhood.
 ##### Ridgefield
 This is the most crowded of North Point’s neighborhoods, plagued with poverty and desperation.  
+###### 1. Longacre Building
+One of the larger buildings in the city, the dreaded Longacre serves both an infamous prison and as the gathering hall of the feared [[Korvosa#Arbiters|Arbiters of Korvosa]]. Legal discussions happen in offices where the screams of prisoners can be heard from the floor below. The building itself is nothing more than a large block of cold stone surrounded by sharp metal fences, increasing the feel of oppression one feels when walking through Ridgefield.  
+
+
+##### Trail's End
+This neighborhood is mostly filled with Varisian families, which gives it a hectic and chaotic feel with street performers and bar brawls, but it is also a warm communal space for any Varisian in the city.  
+###### 1. The Soldado house
+The modest residence of the Soldado family, where [[Tayce Soldado]] raises her small army of children. The smells of cooking comes out of the kitchen window almost all hours of the day.  
+
 
 #### Old Korvosa
 Old Korvosa, as its name implies, is the oldest, but also the poorest, most crowded part of the city. It encompasses all of Endrin Isle.
@@ -231,6 +256,9 @@ Once the heart of Korvosa’s military strength, this neighborhood is a decaying
 Cramped and bustling with activity, Garrison Hill fights a constant battle to avoid the decay and destitution of its neighboring wards.
 ##### Old Dock
 Only the awful state of Bridgefront’s slums keeps decaying Old Dock from being Korvosa’s most run-down and least-desirable neighborhood.  
+###### 1. Eel's End
+A flotilla of connected and tied ships in a pier at the end of the docks, this is a criminal den run by [[Devargo Baravasi]]. The place is a small maze of boats and woodwalks and nets, all lit by colorful lanterns at night. Each ship anchored in the pier serves a different purpose, including a gambling house, a drug den, a brothel, a bar, and a headquarters where the King of Spiders makes his business.   
+
 
 #### Southern Korvosa
 The newest district of the city, Southren Korvosa was only built in the last decade. Located on the southwestern edge of mainland Korvosa, it does not suffer from the overcrowding that plagues the rest of the city. Because of this, it is a highly sought after residence for the city's new money elite.
