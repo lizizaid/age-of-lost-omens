@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Chapter 1 - Into Droskar's Crucible
 draft: false
 tags:
   - crown_of_the_kobold_king

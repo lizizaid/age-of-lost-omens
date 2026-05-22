@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Chapter 1 - Fates Intertwined
 draft: false
 tags:
   - curse_of_the_crimson_throne

@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Chapter 4 - The Warg, The Tiefling, and The Stairway Into Darkness
 draft: false
 tags:
   - crown_of_the_kobold_king

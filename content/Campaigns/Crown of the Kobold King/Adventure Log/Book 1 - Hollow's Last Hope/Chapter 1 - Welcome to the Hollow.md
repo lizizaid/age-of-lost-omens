@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Chapter 1 - Welcome to the Hollow
 draft: false
 tags:
   - crown_of_the_kobold_king

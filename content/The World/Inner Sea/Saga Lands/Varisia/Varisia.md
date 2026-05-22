@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Varisia
 draft: false
 tags:
   - varisia

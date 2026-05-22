@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Chapter 2 - Darkmoon Vale
 draft: false
 tags:
   - crown_of_the_kobold_king

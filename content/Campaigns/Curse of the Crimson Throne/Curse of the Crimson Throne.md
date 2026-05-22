@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Curse of the Crimson Throne
 draft: false
 tags:
   - curse_of_the_crimson_throne

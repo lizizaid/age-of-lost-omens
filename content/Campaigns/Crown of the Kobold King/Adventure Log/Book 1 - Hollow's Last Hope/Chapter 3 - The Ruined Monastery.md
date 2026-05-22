@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Chapter 3 - The Ruined Monastery
 draft: false
 tags:
   - crown_of_the_kobold_king
