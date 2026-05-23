@@ -7,7 +7,7 @@ tags:
 *"character quote here"*  
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
-  <img src="https://pathfinderwiki.com/w/images/thumb/4/41/Abadar_2.jpg/725px-Abadar_2.jpg.webp?20200121010241" alt="Example" width="200"><br>
+  <img src="https://i.postimg.cc/MGXXWR0r/Zellara-Esmeranda.png" alt="Example" width="200"><br>
   <small><em></em></small>
 </div>
 
