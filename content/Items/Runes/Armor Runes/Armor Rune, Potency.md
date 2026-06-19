@@ -1,5 +1,5 @@
 ---
-title: Armor Potency Rune
+title: Armor Rune, Potency
 draft: false
 tags:
   - item

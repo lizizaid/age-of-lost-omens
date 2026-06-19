@@ -9,7 +9,8 @@ The following magical items have been discovered during the adventures of the Ag
 
 # Alchemical Items
 ### Elixirs
-- [[Juggernaut Mutagen]]
+> [!abstract]- Elixirs
+> - [[Juggernaut Mutagen]]
 
 
 # Artifacts
@@ -20,27 +21,62 @@ The following magical items have been discovered during the adventures of the Ag
 # Consumables
 
 ### Magical Ammunition
-- [[Freezing Ammunition]]
+> [!abstract]- Magical Ammunition
+> - [[Freezing Ammunition]]
 ### Potions
-- [[Healing Potion]]
+> [!abstract]- Potions
+>- [[Healing Potion]]
+>- [[Mana Potion]]
 ### Talismans
+Talismans are magical charms, gems, stones, or some other small magical object affixed to an item. Each Talisman holds a sliver of combat knowledge or magical energy that can be unleashed for a momentary boost of power or enhanced ability.  
+Talismans can be affixed using the Affix a Talisman exploration activity. Each item can only hold a single Talisman at a time. A Talisman can be activated using a free action, at which point it grants it's boon for the given duration. At the end of the duration, the Talisman burns out permanently.   
 
+> [!abstract]- Talismans
+> - [[Fear Gem]]
+> - [[Goblin-Eye Orb]]
+### Other Consumables
+> [!abstract]- Other Consumables
+>  - [[Magic Scroll]]
+>  - [[Popper]] 
 
+  
 # Magical Foci
 ### Wands
-- [[Magic Wand]]
+> [!abstract]- Wands
+> - [[Magic Wand]]
 
 
 # Relics
-- [[Zellara's Harrow Deck]]
+> [!abstract]- Relics
+> - [[Zellara's Harrow Deck]]
+
 
 # Runes
 ### Armor Runes
-- [[Armor Potency Rune]]
+> [!abstract]- Armor Runes
+> - [[Armor Rune, Potency]]
+### Spellcasting Runes
+> [!abstract]- Spellcasting Runes
+> - [[Spellcasting Rune, Potency]]
+> - [[spell]]
 ### Weapon Runes
-- [[Weapon Potency Rune]]
+> [!abstract]- Weapon Runes
+> - [[Weapon Rune, Bane]]
+> - [[Weapon Rune, Potency]]
 
+
+  
 # Worn Items
 
+### Cloacks
+> [!abstract]- Cloacks
+> - [[Cape of Illumination]]
+
+### Gloves
+> [!abstract]- Gloves
+> - [[Handwraps of Mighty Blows]]
+> - [[Restorative Handwraps]]
+
 ### Rings
-- [[Ring of Torag]]
+> [!abstract]- Rings
+> - [[Ring of Torag]]
