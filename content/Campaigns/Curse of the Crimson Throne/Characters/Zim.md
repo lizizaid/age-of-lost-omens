@@ -1,32 +1,36 @@
 ---
-title: "Zim"
+title: Zim
 draft: false
 tags:
+  - pc
+  - human
+  - oracle
+  - curse_of_the_crimson_throne
+  - korvosa
 ---
  
-*"character quote here"*  
+*"Can't you see, fools?! This city is going to burn! And we are all going to burn with it!"*  
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
-  <img src="https://pathfinderwiki.com/w/images/thumb/4/41/Abadar_2.jpg/725px-Abadar_2.jpg.webp?20200121010241" alt="Example" width="200"><br>
+  <img src="https://i.postimg.cc/3JWzPPHH/zim.png" alt="Example" width="200"><br>
   <small><em></em></small>
 </div>
 
 ### Info
-one liner describing the character.  
+A young Harrow reader, wracked by mysterious visions
 - **Ancestry:** Human
 - **Gender**: Male
-- **Class**: Commoner
-- **Traits** Boring
+- **Class**: Oracle
+- **Traits** Eccentric, whimsical, tormented
 - **Relationships**
-	- Vox Machina (member)
-	- Jon Pathfinder (brother)
+	- [[Tayce Soldado]] (adopted family)
 - **Status** alive
 
 ### Description
-Short description of the character's looks, maybe personality, etc
+A young [[Varisia#Varisians|Varisian]] man with a dark complexion, messy dark hair, and haunted, almost bulging, large eyes. He wears a colorful vest patched with many colors and a scarf, and is almost always fiddling with his Harrow deck.  
 
 ### Biography
-History of the character, what happened before the adventure
+To be determined...  
 
 ### Recent History
-What happened during the adventure
+During his stay at Tayce's house, Zim was summoned by [[Zellara Esmeranda|Zellara's]] cards, along with [[Barton]] and [[Kebub Urag]], to destroy [[Gaedren Lamm]] once and for all.

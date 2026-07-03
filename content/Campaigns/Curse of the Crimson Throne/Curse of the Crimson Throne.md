@@ -6,7 +6,7 @@ tags:
 ---
 # Gods bless the queen!
 
-[![](https://i.postimg.cc/vHjCwjsC/Screenshot-from-2026-05-17-20-56-18.png)
+![](https://i.postimg.cc/vHjCwjsC/Screenshot-from-2026-05-17-20-56-18.png)
 
 [[Korvosa]] has long stood as the first bastion of civilization on the wild frontier of [[Varisia]]. Yet tragedy seems to haunt the city’s royal bloodline. Few of her rulers rule for long, and none have lived to a ripe old age, dying instead well before their time. Heirs to the throne are few and far between—in its 300-year history, no king of Korvosa has directly inherited the Crimson
 Throne from his father. This is the source of much gossip and tale-spinning among the city’s citizens, who speak in hushed tones of what they have come to call the *Curse of the Crimson Throne*.  

@@ -18,7 +18,7 @@ The **Sokan-Quah**, or "Skull Clan" in their native tongue, is a small tribe of 
 
 The Quah consists of a few hundred people today, most pure-blooded Shoanti but with a few adopted of other ancestries. Their current encampment spot is on a hill just a few hours out of [[Korvosa]].  
 
-Imagery of bones and skulls are favorite tattoos among the Sokan-Quah people. Popular runes are Sosmo (Forever Dead), Eiril (Duty) and Graxt (eternity). Revered totems among the clan include ancestor spirits, earth elementals, giant scarab beetles, vultures, will-o-wisps, and [[Wolf|wolves]].  
+Imagery of bones and skulls are favorite tattoos among the Sokan-Quah people. Popular runes are Sosmo (Forever Dead), Eiril (Duty) and Graxt (Eternity). Revered totems among the clan include ancestor spirits, earth elementals, giant scarab beetles, vultures, will-o-wisps, and [[Wolf|wolves]].  
 
 ## Dogma
 Though they still tend to their age-old responsibilities with care, the Sokan-Quah is not stuck in the past. Although he is blind, their shaman and leader, [[Thousand Bones]], clearly sees the changes happening in the region. With the rise of Korvosa's power, he understands his people must forge diplomatic ties with the city folk, as only peace and trade with them could lead the clan to prosperity in the coming years. This had led to conflict with the younger members of the tribe, who have felt the prejudice and hatred the soft-skinned outsiders have shown their people, and refuse to make any peace with such devils.  

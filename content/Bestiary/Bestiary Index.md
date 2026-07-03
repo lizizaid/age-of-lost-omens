@@ -2,47 +2,58 @@ The world of Golarion is full of unique peoples and monsters, from frightening u
 The following bestiary is a collection of the creatures and ancestries encountered during the adventures of Age of Lost Omens.  
 
 
-### A
-### B
-### C
-### D
-- [[Darkmantle]]
-- [[Demon]]
-- [[Devil]]
-- [[Dwarf]]
-### E
-### F
-### G
-- [[Gelatinous Cube]]
-### H
-- [[Halfling]]
-- [[Human]]
-### I
-### J
-### K
-- [[Kobold]]
-### L
-- [[Lizardfolk]]
-### M
-### N
-- [[Nephilim]]
-	- [[Nephilim, Aasimar]]
-	- [[Nephilim, Tiefling]]
-### O
-### P
-### Q
-### R
-### S
-- [[Skeleton]]
-- [[Snat]]
-- [[Sprite]]
-### T
-- [[Tatzlwyrm]]
-### U
-### V
-### W
-- [[Warg]]
-- [[Wolf]]
-### X
-### Y
-### Z
+> [!info]- Abberations
+
+> [!info]- Animals
+> - [[Eagle]]
+> - [[Wolf]]
+
+> [!info]- Beasts
+> - [[Darkmantle]]
+> - [[Hippogriff]]
+> - [[Warg]]
+
+> [!info]- Celestials
+
+> [!info]- Constructs
+> - [[Animated Object]]
+
+> [!info]- Dragons
+> - [[Dragonet]]
+> - [[Tatzlwyrm]]
+
+> [!info]- Fey
+> - [[Snat]]
+> - [[Sprite]]
+
+> [!info]- Fiends
+> - [[Demon]]
+> - [[Devil]]
+> - [[Imp]]
+
+> [!info]- Giants
+
+> [!info]- Humanoids
+> - [[Dwarf]]
+> - [[Elf]]
+> 	- [[Elf, Half Elf]]
+> - [[Gnome]]
+> - [[Goblin]]
+> - [[Halfling]]
+> - [[Human]]
+> - [[Kobold]]
+> - [[Lizardfolk]]
+> - [[Nephilim]]
+> 	- [[Nephilim, Aasimar]]
+> 	- [[Nephilim, Tiefling]]
+> - [[Orc]]
+> 	- [[Orc, Half orc]]
+
+> [!info]- Ooze
+> - [[Gelatinous Cube]]
+
+> [!info]- Plants
+
+> [!info]- Undead
+> - [[Skeleton]]
+

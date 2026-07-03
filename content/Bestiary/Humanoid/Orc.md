@@ -26,5 +26,6 @@ Additionally, power defines the dynamics among families and tribes. Weaker orcs 
 
 ### Statistics
 There have been 1 orc player characters:
+- [[Kebub Urag]]
 
 Players have defeated 0 orcs so far.

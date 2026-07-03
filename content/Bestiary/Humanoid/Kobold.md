@@ -15,7 +15,8 @@ tags:
 **Kobolds** are a small, reptilian race of cave dwellers. They are known for being cowardly yet aggressive, and intelligent and scheming yet short-sighted and quick to anger.
 
 ### Description
-Kobolds are small reptiles, standing at an average of less than one meter tall. They usually have long, reptilian snouts, and scales of chromatic colors such as red, blue, and green, though many other shades exist in different climates and tribes.  
+Kobolds are small reptiles, standing at an average of less than one meter tall. They usually have long, reptilian snouts, and scales of chromatic colors such as red, blue, and green, though many other shades exist in different climates and tribes.   
+
 Although their thick scales give them a modicum of protection, kobolds are also naturally quite agile and quick, and can usually scamper away and hide from danger. Living mostly underground, kobolds are well adapted to the dark and can see well in darkness.  
 
 ### Ecology
@@ -24,9 +25,9 @@ Most kobolds are short lived, with many not surviving more than 30 years due to 
 
 ### Society
 Kobolds live in hierarchical tribes, where the strongest kobold rules. They are a great nuisance to other communities in their area, often stealing or raiding for resources before running back to hide in their heavily trapped tunnels and warrens. Though they are simple creatures, kobold possess a high intellect, and many are known to practice magical traditions or tinker with cruel inventions.  
-Kobolds are a cowardly bunch, and are easily subjected by more powerful beings. Thus, kobolds tribes can often times be seen in service to creatures such as strong fey or fiends, and especially dragons, whom they see as terrible ancestors and gods.
+
+Kobolds are a cowardly bunch, and are easily subjected by more powerful beings. Thus, kobolds tribes can often times be seen in service to creatures such as strong fey or fiends, and especially dragons, whom they see as terrible ancestors and gods.  
 
 ### Statistics
 There have been 0 kobold player characters.  
-Players have defeated 1 kobolds so far. Specific kobolds:
-- [[Gurtlekep]]
+Players have defeated 1 kobolds so far.

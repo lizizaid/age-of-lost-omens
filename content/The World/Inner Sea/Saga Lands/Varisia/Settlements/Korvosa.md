@@ -70,10 +70,10 @@ The government of Korvosa is comprised of three official branches, each with its
 ##### Monarchy
 Since their appointment following the decline of the Chelexian Empire, the monarchs of of Korvosa have served as the primary diplomats and defenders of the city-state. The city's line of kings and queens have served the populace from the famed Crimson Throne since Korvosa gained it's unexpected independence. The monarchy's authority has always been limited, with control of Korvosa's government shared among groups that existed prior to its inception.  
 
-The current moarch of Korvosa is King Eoderd II, an old man who is known on one hand as a skilled leader who manages to negotiate lucrative trade agreements for the city and handle the bickering noble houses, and on the other a scandalous womanizer and gold spender.  
+The current moarch of Korvosa is King [[Eodred Arabasti II]], an old man who is known on one hand as a skilled leader who manages to negotiate lucrative trade agreements for the city and handle the bickering noble houses, and on the other a scandalous womanizer and gold spender.  
 
 ##### Arbiters
-The Arbiters of Korvosa act as judges, hearing disputes and crimes and determining punishments for those deemed guilty. They also hold the responsibility of legislative oversight over decisions made by the other branches of Korvosa's government. The most well-known senior arbiter in the city is Zenobia Zenderholm, also known as the "Hanging Judge". She is justifiably feared by the criminal classes for her harsh rulings.  
+The Arbiters of Korvosa act as judges, hearing disputes and crimes and determining punishments for those deemed guilty. They also hold the responsibility of legislative oversight over decisions made by the other branches of Korvosa's government. The most well-known senior arbiter in the city is [[Zenobia Zenderholm]], also known as the "Hanging Judge". She is justifiably feared by the criminal classes for her harsh rulings.  
 
 ##### Magistrates
 Korvosa's magistrates are in charge of the daily management of the city. The 23 individuals that comprise this body are primarily concerned with matters of bureaucracy, including taxation, economic oversight, and public works. Garrick Tann, the Magistrate of Commerce, is one of the least popular, as one of his duties is to act as the city's chief tax collector. In contrast, Syl Gar, the Magistrate of Expenditures is one of the most popular, as he responsible for spending the taxes on the city's behalf. Mercer Cucuteni is the current Magistrate of Tourism, responsible for making the city seem as interesting and inviting to outsiders as possible. Lolia Perenne is the Magistrate of Regulation. She and her staff spend most of their time searching for the various means by which merchants and customers cheat each other.  
@@ -82,7 +82,7 @@ Korvosa's magistrates are in charge of the daily management of the city. The 23 
 The 36 current noble houses of Korvosa are extended families who control parts of the trade and diplomatic operations of the city. The five most powerful houses are known as the Great Houses, and they enjoy greater than regular benefits by controlling aspects of the city and having the protection of the Sable Company both within and without the city. Each one of the Great Houses has a representative on the council of Peerage Review, advising the monarch on how to administer the city. They have the power to overrule orders given to the Korvosan Guard. The five Great Houses include:
 - House Arkona, a merchant family with connections to the far off land of Vudra.
 - House Jeggare, the wealthiest family in the city, and with a long rich history connected to one of the original explorers of Varisia.
-- House Leroung, directors of the University of Korvosa and custodians of knowladge.
+- House Leroung, directors of the University of Korvosa and custodians of knowledge.
 - House Ornelos, the family that heads the Acadamae and produces the most Magistrates.
 - House Zenderholm, a family of arbitrators and lawyers.  
 
@@ -104,12 +104,15 @@ The traditional colors of Korvosa (seen in it's flag and in many uniforms of cit
 Korvosa's military resources are embodied in three separate organizations, each charged with protecting the city-state and its people in manners unique to each group.  
 
 ##### Korvosan Guard
+*(Main page: [[Korvosan Guard]])*  
 The primary responsibility of the Korvosan Guard is the protection and well being of the city of Korvosa. Its members serve as police and will, in times of danger from beyond the city's walls, also act in the capacity of a defensive military force. In addition, the Guard also often works to forward the interests of the government and the local church of Abadar.  
 
 ##### Sable Company
+*(Main Page: [[Sable Company]])*  
 The [[Hippogriff]]-mounted marines of the Sable Company answer directly to Korvosa's monarchy, their orders given to them directly by Castle Korvosa. Their purpose is to patrol and defend the city's skies and waterways, though they have also been known to assist the Korvosan Guard in their efforts throughout the city.  
 
 ##### Order of the Nail
+*(Main Page: [[Order of the Nail]])*  
 The Hellknights of the Order of the Nail are paid allies of the Korvosan government, and pursue their unyielding ideals of order and law from the nearby Citadel Vraid. They are fanatical when confronted by behavior or events that fly against their strict worldview, but support the city only as long as they are compensated.  
 
 ##### Vigilantes

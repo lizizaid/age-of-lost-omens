@@ -14,11 +14,12 @@ tags:
 **Wargs** are a large, intelligent, and often malevolent species of [[Wolf|wolves]]. They hunt in packs as wolves do and often work with other violent creatures.   
 
 ### Description
-Wargs appear as large, muscular wolves, usually with burning red eyes and sharper teeth and claws.  
+Wargs appear as large, muscular wolves, usually with burning red eyes and sharper teeth and claws.  Some wargs have the ability to speak in humanoid tongues.   
 
 ### Society
 Lone wargs often take over wolf packs as an alpha, leading them in hunts against humanoids and making the beasts unnaturally violent.  
+
 Warring cultures, such as orcs and goblins, frequently recruit wargs as mounts and hunting companions. Most wargs are amenable to this arrangement, but if food should run out, wargs are more than willing to integrate goblinoid flesh into their diet.
 
 ### Statistics
-Players have defeated 1 wargs so far. Specific wargs:
+Players have defeated 1 wargs so far.  

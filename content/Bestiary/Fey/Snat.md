@@ -20,4 +20,4 @@ Snats appear as cats the size of a large dog, with a snail-like shell on their b
 Combining the personalities of a cat and a snail, these fairies are both slow and methodical but curious and mischievous. While other fey enjoy practical pranks or jokes, snats like to annoy bypassers with long, excruciating talks, pretending to have some old wisdom to share or a riddle to solve without any payoff. Still, snats enjoy living a slow and steady life, mostly staying in the same place and watching over nature for years. They are easily startled by change and unwelcome strangers arriving to their nests.   
 
 ### Statistics
-Players have defeated 0 snats so far.
+Players have defeated 0 snats so far.  
