@@ -1,8 +1,9 @@
 ---
-title: "Alchemist's Fire"
+title: Alchemist's Fire
 draft: false
 tags:
   - item
+  - bomb
 ---
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">

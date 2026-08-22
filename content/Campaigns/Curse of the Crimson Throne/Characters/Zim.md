@@ -7,6 +7,7 @@ tags:
   - oracle
   - curse_of_the_crimson_throne
   - korvosa
+  - peaky_finders
 ---
  
 *"Can't you see, fools?! This city is going to burn! And we are all going to burn with it!"*  
@@ -23,6 +24,7 @@ A young Harrow reader, wracked by mysterious visions
 - **Class**: Oracle
 - **Traits** Eccentric, whimsical, tormented
 - **Relationships**
+	- [[Peaky Finders]] (member)
 	- [[Tayce Soldado]] (adopted family)
 - **Status** alive
 
@@ -30,7 +32,7 @@ A young Harrow reader, wracked by mysterious visions
 A young [[Varisia#Varisians|Varisian]] man with a dark complexion, messy dark hair, and haunted, almost bulging, large eyes. He wears a colorful vest patched with many colors and a scarf, and is almost always fiddling with his Harrow deck.  
 
 ### Biography
-To be determined...  
+To be discovered...  
 
 ### Recent History
 During his stay at Tayce's house, Zim was summoned by [[Zellara Esmeranda|Zellara's]] cards, along with [[Barton]] and [[Kebub Urag]], to destroy [[Gaedren Lamm]] once and for all.

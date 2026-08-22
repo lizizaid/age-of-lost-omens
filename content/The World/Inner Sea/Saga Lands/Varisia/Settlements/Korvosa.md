@@ -189,7 +189,6 @@ Below is a list of past and present inhabitants of Korvosa:
 - [[Eodred Arabasti II]]
 - [[Gaedren Lamm]]
 - [[Kebub Urag]]
-- 
 - [[Tayce Soldado]]
 - [[Trinia Sabor]]
 - [[Zellara Esmeranda]]
@@ -217,10 +216,14 @@ Midland is what most visitors think of when they speak of Korvosa. Located in th
 ##### High Bridge
 The primary inhabitants of this residential district are laborers or the families of those working in the Korvosan Guard or Sable Company.  
 ###### 1. Gadgets and Gizmos
-A two-story shop selling tinkering materials, imported machinery parts and all kinds of metallic or alchemicals knick-kncaks required for operating technologies. Dust and black powder inevitably sticks to anyone who steps inside the store, and customers often slip on oil or get their clothes caught on fire from errant gadgets. The shop owner, [[Barleton Fink]], does not seem to find the time to organize or clean the place.  
+A two-story shop selling tinkering materials, imported machinery parts and all kinds of metallic or alchemical knick-kncaks required for operating technologies. Dust and black powder inevitably sticks to anyone who steps inside the store, and customers often slip on oil or get their clothes caught on fire from errant gadgets. The shop owner, [[Barleton Fink]], does not seem to find the time to organize or clean the place.  
+
+###### 2. Eodred's Square
+A large plaza at the western end of High Bridge, popular with both locals and visitors to the city for it's pretty fountains and architecture.   
 
 ##### Pillar Hill
-Korvosa's most demographically diverse neighberhood.
+Korvosa's most demographically diverse neighberhood.  
+
 ##### Slope
 This neighborhood features a large number of small and private libraries, museums, and other bastions of culture.
 ##### West Dock

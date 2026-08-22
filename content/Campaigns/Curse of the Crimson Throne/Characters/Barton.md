@@ -7,6 +7,7 @@ tags:
   - gunslinger
   - curse_of_the_crimson_throne
   - korvosa
+  - peaky_finders
 ---
  
 *"Keep talking and I'll blow a hole through you... that will keep you warm forever"*  
@@ -23,13 +24,14 @@ A poor Acadamae dropout, living on the streets with nothing but a trusty hand ca
 - **Class**: Gunslinger / Spellshot
 - **Traits** Survivor, inventive, vengeful 
 - **Relationships**
+	- [[Peaky Finders]] (member)
 - **Status** alive
 
 ### Description
 A thin man of no more than 20. His dark hair and beard are unkempt and wild, his clothes dirty and neglected. The only item of worth he carries is his magical hand cannon he built himself.  
 
 ### Biography
-To be determined...  
+To be discovered...  
 
 ### Recent History
 In what seemed like just another day of surviving his way through [[Korvosa|Korvosa's]] streets, Barton was summoned by [[Zellara Esmeranda|Zellara's]] cards, together with [[Kebub Urag]] and [[Zim]], to exact his revenge against the Lamm family.  

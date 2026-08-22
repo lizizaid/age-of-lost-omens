@@ -14,7 +14,7 @@ tags:
 </div>
 
 ### Info
-Eccentric shop owner in Midland, obssessed with firearms and black powder  
+Eccentric shop owner in Midland, obsessed with firearms and black powder  
 - **Ancestry:** [[Gnome]]
 - **Gender**: Male
 - **Class**: Merchant \ Tinkerer

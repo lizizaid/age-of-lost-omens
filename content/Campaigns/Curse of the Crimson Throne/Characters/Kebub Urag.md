@@ -3,10 +3,11 @@ title: Kebub Urag
 draft: false
 tags:
   - pc
-  - soldier
   - orc
   - curse_of_the_crimson_throne
   - korvosa
+  - fighter
+  - peaky_finders
 ---
 *"I have seen too much war to know that war is never the answer"*  
 
@@ -19,9 +20,10 @@ tags:
 A grisly tribal warrior, stranded between life and death
 - **Ancestry:** [[Orc]]
 - **Gender**: Male
-- **Class**: Soldier
+- **Class**: Fighter
 - **Traits** Tough, protective, haunted
 - **Relationships**
+	- [[Peaky Finders]] (member)
 	- [[Sokan-Quah]] (member)
 - **Status** alive
 
@@ -29,7 +31,7 @@ A grisly tribal warrior, stranded between life and death
 An orc of large stature and muscular physique, even for his older years. His skin is of a sickly greenish-grey tune, paler then other orcs as though he has been mummified. His skin is scarred and battle-hardened, and he is missing one eye and a chunk of his left tusk.  
 
 ### Biography
-To be determined...
+To be discovered...
 
 ### Recent History
 During one of the Sokan-Quah's diplomatic visits to [[Korvosa]], Kebub was summoned by [[Zellara Esmeranda|Zellara's]] cards, along with [[Barton]] and [[Zim]], to bring [[Gaedren Lamm]] to justice.  

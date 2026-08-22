@@ -32,3 +32,9 @@ The years have turned to decades and the small port town grew into a large city.
 THE CURSE OF THE CRIMSON THRONE  
 
 https://www.youtube.com/watch?v=5a3EZF3JESo
+
+---
+
+| ← Previous |                            Next → |
+| :--------- | --------------------------------: |
+| -          | [[Chapter 1 - Fates Intertwined]] |

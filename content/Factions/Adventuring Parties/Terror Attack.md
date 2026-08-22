@@ -4,6 +4,7 @@ draft: false
 tags:
   - faction
   - terror_attack
+  - adventuring_party
 ---
 ## Info
 A ragtag group of mercenaries, contracted to help the town of [[Falcon's Hollow]].  
