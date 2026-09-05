@@ -11,7 +11,7 @@ tags:
   <small><em></em></small>
 </div>
 
-Small, floating, octopus-like creatures, **darkmantles** are dangerous prey ambushes living in caverns and dark spaces.  
+Small, floating, octopus-like creatures, **darkmantles** are dangerous prey ambushers living in caverns and dark spaces.  
 
 ### Description
 As their name suggests, darkmantles look like a thick leathery shroud which connects six tentacles. Small eyes are set around the shroud, allowing them vision in all directions. While not great climbers, darkmantles can float, and they excel and clinging and clutching to cave roofs. While clinging they look like stalactites, and they can hold this form for days, ambushing prey in the darkness. Despite the shape of darkmantles, their bodies's texture is more like thick leather or even rubber.  

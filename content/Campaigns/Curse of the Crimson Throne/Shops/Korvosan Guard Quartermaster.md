@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: Korvosan Guard Quartermaster
 draft: false
 tags:
   - curse_of_the_crimson_throne
@@ -24,10 +24,10 @@ This is the quartermaster for the [[Korvosan Guard]] faction.
 | Thieve's Toolkit                                                                        | 3 GP     | 5        |                                                                                                                              |
 | Thieve's Toolkit (Replacement Picks)                                                    | 3 SP     | 20       |                                                                                                                              |
 | Healer's Toolkit                                                                        | 5 GP     | 5        |                                                                                                                              |
-| Map of Korvosa                                                                          | 10 GP    | 3        | Grants a +2 bonus to Soceity or Lore checks made to find locations in the city                                               |
+| Map of Korvosa                                                                          | 10 GP    | 2        | Grants a +2 bonus to Soceity or Lore checks made to find locations in the city                                               |
 |                                                                                         |          |          |                                                                                                                              |
 | **Consumables**                                                                         |          |          |                                                                                                                              |
-| [[Healing Potion\|Healing Potion, Minor]]                                               | 4 GP     | 50       |                                                                                                                              |
+| [[Healing Potion\|Healing Potion, Minor]]                                               | 4 GP     | 48       |                                                                                                                              |
 | [[Healing Potion\|Healing Potion, Lesser]]                                              | 12 GP    | 30       |                                                                                                                              |
 | [[Healing Potion\|Healing Potion, Moderate]]                                            | 50 GP    | 10       |                                                                                                                              |
 | [[Mana Potion\|Mana Potion, 1st rank]]                                                  | 10 GP    | 35       |                                                                                                                              |
@@ -75,7 +75,7 @@ This is the quartermaster for the [[Korvosan Guard]] faction.
 | Shield, Common (Any)                                                                    | Varies   | Varies   | The quartermaster can provide most common shield for their market price.                                                     |
 | Studded Leather Armor, Masterwork                                                       | 43 GP    | 5        | Masterwork armor sets are effectively crafted, decreasing their Check Penalty by 1 and their Speed Penalty by 5 ft.          |
 | Chain Mail, Masterwork                                                                  | 46 GP    | 5        |                                                                                                                              |
-| Half Plate, Masterwork                                                                  | 58 GP    | 5        |                                                                                                                              |
+| Half Plate, Masterwork                                                                  | 58 GP    | 4        |                                                                                                                              |
 | [[Armor Rune, Potency\|Armor Rune, Potency +1]]                                         | 100 GP   | 3        | Requires Liked reputation with the Korvosan Guard.                                                                           |
 | [[Armor Rune, Resilient]]                                                               | 340 GP   | 3        | Requires Liked reputation with the Korvosan Guard.                                                                           |
 | [[Armor Rune, Stanching]]                                                               | 130 GP   | 1        | Requires Liked reputation with the Korvosan Guard.                                                                           |
@@ -83,7 +83,7 @@ This is the quartermaster for the [[Korvosan Guard]] faction.
 | [[Shield Rune, Reinforcing\|Lesser Reinforcing]] Steel Shield                           | 302 GP   | 1        | Requires Admired reputation with the Korvosan guard.                                                                         |
 |                                                                                         |          |          |                                                                                                                              |
 | **Spellcasting**                                                                        |          |          |                                                                                                                              |
-| [[Spellcasting Rune, Potency\|Spellcasting Rune, Potency +1]]                           | 35 GP    | 5        |                                                                                                                              |
+| [[Spellcasting Rune, Potency\|Spellcasting Rune, Potency +1]]                           | 35 GP    | 4        |                                                                                                                              |
 | [[Spellcasting Rune, Potency\|Spellcasting Rune, Potency +2]]                           | 935 GP   | 3        | Requires Admired reputation with the Korvosan guard.                                                                         |
 | [[Spellcasting Rune, Vitalizing]]                                                       | 500 GP   | 1        | Requires Liked reputation with the Korvosan Guard.                                                                           |
 | [[Magic Wand\|Wand of Command]]                                                         | 60 GP    | 1        | [Spell](https://2e.aonprd.com/Spells.aspx?ID=1470)                                                                           |
