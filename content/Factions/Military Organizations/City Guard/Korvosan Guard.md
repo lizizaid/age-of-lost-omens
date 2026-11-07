@@ -16,6 +16,8 @@ City guard of the [[Varisia|Varisian]] city-state of [[Korvosa]]
   <img src="https://pathfinderwiki.com/w/images/f/f1/Korvosan_Guard.png" alt="Example" width="200"><br>
   <small><em>Korvosan Guard coat of arms</em></small>
 </div>
+
+  
 ## Description
 The Korvosan Guard serves their city first, their monarch second, and the church of [[Abadar]] third. It maintains order in the city, but also turns into a military operation whenever the city is threatened by external forces. Members of the guard are known for their signature red tabards.  
 
