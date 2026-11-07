@@ -14,9 +14,9 @@ A Korvosan misfit adventuring party, fighting for a better tomorrow. The Path Fi
 - **Goals** Defend Korvosa, make money, escape from the past
 - **Reputation**
 	- Allies:
-		- [[Korvosan Guard]] - Ignored (1 RP)
+		- [[Korvosan Guard]] - Ignored (9 RP)
 		- [[Sable Company]] - Ignored (0 RP)
-		- [[Order of the Nail]] - Ignored (0 RP)
+		- [[Order of the Nail]] - Ignored (3 RP)
 	- Enemies:
 
 ## Description

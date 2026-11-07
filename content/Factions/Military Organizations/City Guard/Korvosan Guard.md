@@ -11,7 +11,6 @@ City guard of the [[Varisia|Varisian]] city-state of [[Korvosa]]
 - **Leader** [[Cressida Kroft|Field Marshal Cressida Kroft]]
 - **Location** [[Korvosa]]
 - **Goals** Policing and defending the city of Korvosa
-- **Reputation**
 
 <div style="float: right; width: 350px; margin: 0 0 1em 1em; text-align: center;">
   <img src="https://pathfinderwiki.com/w/images/f/f1/Korvosan_Guard.png" alt="Example" width="200"><br>
