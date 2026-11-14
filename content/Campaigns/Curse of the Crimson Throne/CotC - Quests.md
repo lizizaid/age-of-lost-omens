@@ -38,13 +38,6 @@ tags:
 > CONTACT: Commandant Marcus Thalassinus Endrin, located in the Great Tower  
 > REWARDS: 90 XP, +2 RP Korvosan Guard, +3 RP Sable Company, unlocks Sable Company Marine questline  
 
-> [!todo]- MONSTER HUNT: The Haunt of the Orphanage
-> A tragedy befell the city, as some nights ago, during the outbreak of the riots, fires spread by hooligans in Midland have caused the Riverside House Orphanage to burn down. Most orphans managed to survive due to the bravery of the orphanage director, Osten Vendiger, but he himself perished in the flames. The Guard has been trying to enter the place to clear it and find any additional survivors, but strangely, they always find themselves unable to enter with no recall of why. Yesterday, one of the missing children has appeared outside the orphanage ruins, but seems dazed and confused when asked about what happens inside, only vaguely recalling some sort of ghost or spirit haunting the halls. This haunt must be destroyed before it manages to escape the burnt orphanage and deal damage to the city!  
-> 
-> REQUIREMENTS: Destroy the haunt in the Riverside House Orphanage.  
-> CONTACT: Edith and Gon, survivors from the orphanage  
-> REWARDS: 120 XP, +3 RP Korvosan Guard, a free blessing from the Guard priest  
-
 > [!todo]- MONSTER HUNT: The River Terror
 > A massive [[Reefclaw]] has emerged from the [[Jeggare River]], drawn to the chaos in the city streets. It, and its young, disrupt river boats, drag cattle into the river, and on more than one occasion have attacked citizens, causing near-fatal wounds and poisonings. Someone has to slay the beast before more havoc could be done!   
 > 
@@ -74,6 +67,11 @@ tags:
 > RESOLUTION: The party fought and killed Lamm.
 
 ## Side Quests
+
+> [!done]- MONSTER HUNT: The Haunt of the Orphanage
+> A tragedy befell the city, as some nights ago, during the outbreak of the riots, fires spread by hooligans in Midland have caused the Riverside House Orphanage to burn down. Most orphans managed to survive due to the bravery of the orphanage director, Osten Vendiger, but he himself perished in the flames. The Guard has been trying to enter the place to clear it and find any additional survivors, but strangely, they always find themselves unable to enter with no recall of why. Yesterday, one of the missing children has appeared outside the orphanage ruins, but seems dazed and confused when asked about what happens inside, only vaguely recalling some sort of ghost or spirit haunting the halls. This haunt must be destroyed before it manages to escape the burnt orphanage and deal damage to the city!  
+> 
+> RESOLUTION: The haunt was revealed to be a [[Faceless Wanderer]], drawn to the orphanage due to the influx of bad memories. It was destroyed by the party after a gruesome fight.
 
 > [!done]- INVESTIGATION: The Missing Dollmaker
 > Many citizens have been reported missing since king Eodred's death, and the Guard can't keep up with all these cases. One such missing person is Vadid Pestico, a kindly but fragile dollamaker from Midland. Some good samaritan neighbors have reported his shop has stood eerily closed and locked for the last few days, and the good man himself nowhere to be seen - only his old dolls can be seen from the showcase window...  
